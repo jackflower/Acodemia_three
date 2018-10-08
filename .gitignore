@@ -7,6 +7,13 @@
 *.userosscache
 *.sln.docstates
 
+# 2018-10-10
+*.vcproj
+*.vcxproj
+*.filters
+*.sln
+SFML-2.5.0-windows-vc15-32-bit/
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
