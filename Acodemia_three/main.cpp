@@ -3,11 +3,11 @@
 
 int main()
 {
-	//2018-10-10
-
-	//Testowanie poprawności kodowania znaków UTF-8
 	//
-	//Łabędź żródło znalazł mądrzej patrzeć może teraz łąką się kończąc...
+	//acodemia.pl
+	//
+	//Ocotober 2018
+	//
 
 	sf::RenderWindow window(sf::VideoMode(800, 600), "Acodemia++ SCI 2018", sf::Style::Close);
 
